@@ -1,3 +1,4 @@
+ที่มา: https://drive.google.com/file/d/1bEe0dqveLs3xvWyy5sxxb6FNjXjuc0TW/view?usp=sharing
 ในสไลด์บรรยายหัวข้อ "Langflow Quick Looking" พบพฤติกรรมการใช้ถ้อยคำระบุตำแหน่งตนเองที่อาจสร้างความเข้าใจผิดถึงขอบเขตอำนาจและหน้าที่ ดังนี้:
 "Representative of Thailand" / "Tech Student Representatives of Thailand": เป็นการใช้คำที่สื่อความหมายว่าตนเองได้รับเลือกเป็นตัวแทนระดับประเทศอย่างเป็นทางการ ซึ่งในความเป็นจริง โครงการ Microsoft Learn Student Ambassadors อาจมีตำแหน่ง Country Lead แต่ไม่มีตำแหน่ง "Representative of Thailand" ในความหมายทางราชการหรือตัวแทนชาติ การใช้คำนี้ถือเป็นการ โอ้อวดสถานะ (Self-Aggrandizement) เพื่อสร้างภาพลักษณ์
 การเคลมโปรเจกต์ลูกค้า (Client Project Claiming) มีการระบุชื่อบริษัทชั้นนำ (SCBX, Swatch, King Power) การนำชื่อแบรนด์เหล่านี้มาใส่ใน Profile โดยตรง อาจทำให้ผู้พบเห็นเข้าใจผิดถึงระดับความรับผิดชอบและบทบาทที่แท้จริง
