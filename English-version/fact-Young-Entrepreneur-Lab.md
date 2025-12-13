@@ -15,7 +15,7 @@ Analysis: Tagging these prominent figures serves two psychological purposes:
 Builds Credibility: It makes the workshop (and the act of teaching Google Opal under the guise of Microsoft) appear validated and accepted by senior leadership.
 Defense Mechanism: Should anyone question the appropriateness of the activity, he can use these names as an "Appeal to Authority," implying: "Even the senior figures liked it."
 
-Source : https://www.facebook.com/share/p/1DKZtyAvde/
+Source : https://www.facebook.com/share/p/1DKZtyAvde/<br>
 Translation :
 AvaX 's Young Entrepreneur Lab #1 at AIS Siam Square - AI-First Entrepreneur Workshop: Featuring Opal
 .
