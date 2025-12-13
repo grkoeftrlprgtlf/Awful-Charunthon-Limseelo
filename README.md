@@ -1,7 +1,7 @@
 # Awful Charunthon Limseelo
 วีรกรรมของชายนามว่าโบ๊ท https://www.facebook.com/boatchrnthn
 
-English Version :
+English Version : https://github.com/awful-devfluencer/Awful-Charunthon-Limseelo/tree/main/English-version
 
 # วัตถุประสงค์ของ Repo นี้
 เผยแพร่วีรกรรม ให้เป็นที่ทราบในวงกว้าง เพื่อลดความเสียหายจากบุคคลคนนี้
