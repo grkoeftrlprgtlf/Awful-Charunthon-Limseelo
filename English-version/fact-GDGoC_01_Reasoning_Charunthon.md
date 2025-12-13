@@ -1,0 +1,5 @@
+ที่มา : kmutt.me/gdg-reasoning-slides
+From examining the slide set "How To Run Reasoning Models..." (November 28, 2025), evidence of internal inconsistencies was found that points to the intent to create false information, as follows:
+Timeline Stops (The Frozen Timeline) - Page 17: The event is held at the end of 2025, but the AI evolution timeline graph stops at "September 2024" and does not include the names of the models Gemini 3 or Gemma 3 that are used in the event headline appearing in the graph, showing that it is taking old slides and changing the title to deceive that it is new content.
+Demo Doesn't Match the Cover (Code Discrepancy) - Page 52: The slide title indicates that it is a demonstration of "Gemini 3", but in the Python code screenshot image, it clearly calls model="mistral", which proves that the presenter did not actually run Gemini 3.
+These behaviors confirm that the presenter uses the method of "Fabrication" (fabricating information) to create an image of an expert, lacking academic accuracy.
